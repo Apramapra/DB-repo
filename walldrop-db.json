@@ -1,7 +1,17 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-02T04:00:50.792Z",
+  "updatedAt": "2026-05-02T04:01:49.693Z",
   "wallpapers": [
+    {
+      "id": "f1777694509693",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777694507784-ce1vwh75few.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777694507784-ce1vwh75few.jpg",
+      "cat": "other",
+      "tag": "Other",
+      "title": "Anime",
+      "isDefault": false,
+      "storedIn": "github"
+    },
     {
       "id": "d1",
       "src": "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?w=1400&q=85",
