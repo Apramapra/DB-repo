@@ -1,15 +1,24 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-02T14:32:50.006Z",
+  "updatedAt": "2026-05-02T14:34:19.530Z",
   "wallpapers": [
     {
-      "id": "f1777732369979",
-      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732366771-yoasg991zs9.jpg",
-      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732366771-yoasg991zs9.jpg",
+      "id": "u1777732459507",
+      "src": "https://in.pinterest.com/db0861df-7474-48a8-bfb8-18a8b93cb65d",
+      "thumb": "https://in.pinterest.com/db0861df-7474-48a8-bfb8-18a8b93cb65d",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "IDnoin",
+      "isDefault": false
+    },
+    {
+      "id": "f1777732410412",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732408079-tar14m9tsz.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732408079-tar14m9tsz.jpg",
       "cat": "nature",
       "tag": "Nature",
       "title": "Nature",
-      "description": "Nature",
+      "description": "NatureNature",
       "isDefault": false,
       "storedIn": "github"
     },
