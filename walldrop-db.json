@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-02T09:02:07.678Z",
+  "updatedAt": "2026-05-02T09:03:28.794Z",
   "wallpapers": [
     {
       "id": "d1",
@@ -84,5 +84,15 @@
       "isDefault": true
     }
   ],
-  "users": []
+  "users": [
+    {
+      "id": "g_105176845155672820787",
+      "fname": "test",
+      "lname": "test1",
+      "email": "fortestingpurpose123@gmail.com",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocJd9X3B_KmAmemmwqmaX04IyreypTwjVVRuzcywDW1RX02fzg=s96-c",
+      "provider": "google",
+      "createdAt": 1777712557807
+    }
+  ]
 }
