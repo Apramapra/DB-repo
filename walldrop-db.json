@@ -1,24 +1,15 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-02T14:34:19.530Z",
+  "updatedAt": "2026-05-02T14:35:37.247Z",
   "wallpapers": [
     {
-      "id": "u1777732459507",
-      "src": "https://in.pinterest.com/db0861df-7474-48a8-bfb8-18a8b93cb65d",
-      "thumb": "https://in.pinterest.com/db0861df-7474-48a8-bfb8-18a8b93cb65d",
+      "id": "f1777732537234",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732530925-u4ubgnjtd8.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732530925-u4ubgnjtd8.jpg",
       "cat": "nature",
       "tag": "Nature",
-      "title": "IDnoin",
-      "isDefault": false
-    },
-    {
-      "id": "f1777732410412",
-      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732408079-tar14m9tsz.jpg",
-      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732408079-tar14m9tsz.jpg",
-      "cat": "nature",
-      "tag": "Nature",
-      "title": "Nature",
-      "description": "NatureNature",
+      "title": "Bro",
+      "description": "Vibe",
       "isDefault": false,
       "storedIn": "github"
     },
