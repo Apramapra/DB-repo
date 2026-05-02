@@ -1,7 +1,18 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-02T08:37:32.970Z",
+  "updatedAt": "2026-05-02T08:39:55.255Z",
   "wallpapers": [
+    {
+      "id": "f1777711195254",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777711192153-b0s1fh465cb.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777711192153-b0s1fh465cb.jpg",
+      "cat": "other",
+      "tag": "Other",
+      "title": "Aesthetic",
+      "description": "A Man Portrait on a windy land with bushes",
+      "isDefault": false,
+      "storedIn": "github"
+    },
     {
       "id": "f1777711052969",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777711048782-tg273ar8ap.jpg",
