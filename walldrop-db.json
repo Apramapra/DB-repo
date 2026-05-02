@@ -1,7 +1,18 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-02T08:36:15.046Z",
+  "updatedAt": "2026-05-02T08:37:32.970Z",
   "wallpapers": [
+    {
+      "id": "f1777711052969",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777711048782-tg273ar8ap.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777711048782-tg273ar8ap.jpg",
+      "cat": "other",
+      "tag": "Other",
+      "title": "Dark Minimalist Anime Potrait",
+      "description": "An Anime Character Standing On A Beautiful land",
+      "isDefault": false,
+      "storedIn": "github"
+    },
     {
       "id": "f1777710975046",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777710971991-mxd4z1qr5c.jpg",
