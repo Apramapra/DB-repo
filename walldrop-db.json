@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "updatedAt": "2026-05-02T04:00:50.792Z",
+  "wallpapers": [
+    {
+      "id": "d1",
+      "src": "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?w=800&q=80",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "Forest Light",
+      "isDefault": true
+    },
+    {
+      "id": "d2",
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=800&q=80",
+      "cat": "space",
+      "tag": "Space",
+      "title": "Galaxy",
+      "isDefault": true
+    },
+    {
+      "id": "d3",
+      "src": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "Alpine Peaks",
+      "isDefault": true
+    },
+    {
+      "id": "d4",
+      "src": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=800&q=80",
+      "cat": "abstract",
+      "tag": "Abstract",
+      "title": "Color Gradient",
+      "isDefault": true
+    },
+    {
+      "id": "d5",
+      "src": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=800&q=80",
+      "cat": "city",
+      "tag": "City",
+      "title": "City Skyline",
+      "isDefault": true
+    },
+    {
+      "id": "d6",
+      "src": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "Snowy Mountains",
+      "isDefault": true
+    },
+    {
+      "id": "d7",
+      "src": "https://images.unsplash.com/photo-1511300636408-a63a89df3482?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1511300636408-a63a89df3482?w=800&q=80",
+      "cat": "minimal",
+      "tag": "Minimal",
+      "title": "Minimalist",
+      "isDefault": true
+    },
+    {
+      "id": "d8",
+      "src": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=800&q=80",
+      "cat": "space",
+      "tag": "Space",
+      "title": "Deep Space",
+      "isDefault": true
+    },
+    {
+      "id": "d9",
+      "src": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+      "cat": "city",
+      "tag": "City",
+      "title": "Architecture",
+      "isDefault": true
+    }
+  ],
+  "users": []
+}
