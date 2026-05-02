@@ -1,7 +1,105 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-02T08:43:29.682Z",
+  "updatedAt": "2026-05-02T08:44:03.633Z",
   "wallpapers": [
+    {
+      "id": "f1777711195254",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777711192153-b0s1fh465cb.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777711192153-b0s1fh465cb.jpg",
+      "cat": "other",
+      "tag": "Other",
+      "title": "Aesthetic",
+      "description": "A Man Portrait on a windy land with bushes",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1777711052969",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777711048782-tg273ar8ap.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777711048782-tg273ar8ap.jpg",
+      "cat": "other",
+      "tag": "Other",
+      "title": "Dark Minimalist Anime Potrait",
+      "description": "An Anime Character Standing On A Beautiful land",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1777710975046",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777710971991-mxd4z1qr5c.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777710971991-mxd4z1qr5c.jpg",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "Rich Cat",
+      "description": "A Cat Selfie With 5 Luxurious Card",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1777710439948",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777710435502-9o84rnsleam.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777710435502-9o84rnsleam.jpg",
+      "cat": "anime",
+      "tag": "Anime",
+      "title": "Crayon Shin-chan Rain",
+      "description": "A vibrant scene depicts the Nohara family cheerfully navigating a rainy day in a charming Japanese neighborhood.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1777706638632",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777706628129-tnkvo178kuk.jpeg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777706628129-tnkvo178kuk.jpeg",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "Antelope Canyon Light",
+      "description": "Vibrant orange and purple sandstone formations create a stunning, otherworldly scene bathed in ethereal light from a narrow opening above.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1777706327466",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777706310535-i40ayt8lm7r.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777706310535-i40ayt8lm7r.png",
+      "cat": "abstract",
+      "tag": "Abstract",
+      "title": "Ethereal Flowing Light",
+      "description": "Soft pastel colors blend in swirling, translucent forms creating a dreamy and calming wallpaper aesthetic.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1777705006144",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777704998611-lo9vh11y2tf.jpeg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777704998611-lo9vh11y2tf.jpeg",
+      "cat": "",
+      "tag": "",
+      "title": "Cloudscape Melancholy",
+      "description": "A young man in a white hoodie and headphones stands against a vast blue sky dotted with fluffy white clouds, evoking a serene yet introspective mood.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1777701509503",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777701490716-emergfy3cyi.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777701490716-emergfy3cyi.jpg",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "Nature",
+      "description": "",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1777694509693",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777694507784-ce1vwh75few.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777694507784-ce1vwh75few.jpg",
+      "cat": "other",
+      "tag": "Other",
+      "title": "Anime",
+      "isDefault": false,
+      "storedIn": "github"
+    },
     {
       "id": "d1",
       "src": "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?w=1400&q=85",
@@ -72,15 +170,6 @@
       "cat": "space",
       "tag": "Space",
       "title": "Deep Space",
-      "isDefault": true
-    },
-    {
-      "id": "d9",
-      "src": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1400&q=85",
-      "thumb": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
-      "cat": "city",
-      "tag": "City",
-      "title": "Architecture",
       "isDefault": true
     }
   ],
