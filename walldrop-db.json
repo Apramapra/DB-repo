@@ -1,7 +1,18 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-02T04:03:28.132Z",
+  "updatedAt": "2026-05-02T05:58:29.505Z",
   "wallpapers": [
+    {
+      "id": "f1777701509503",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777701490716-emergfy3cyi.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777701490716-emergfy3cyi.jpg",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "Nature",
+      "description": "",
+      "isDefault": false,
+      "storedIn": "github"
+    },
     {
       "id": "f1777694509693",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777694507784-ce1vwh75few.jpg",
