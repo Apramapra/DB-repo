@@ -1,7 +1,18 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-02T06:56:46.145Z",
+  "updatedAt": "2026-05-02T07:18:47.468Z",
   "wallpapers": [
+    {
+      "id": "f1777706327466",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777706310535-i40ayt8lm7r.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777706310535-i40ayt8lm7r.png",
+      "cat": "abstract",
+      "tag": "Abstract",
+      "title": "Ethereal Flowing Light",
+      "description": "Soft pastel colors blend in swirling, translucent forms creating a dreamy and calming wallpaper aesthetic.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
     {
       "id": "f1777705006144",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777704998611-lo9vh11y2tf.jpeg",
