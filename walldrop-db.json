@@ -1,7 +1,18 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-02T07:18:47.468Z",
+  "updatedAt": "2026-05-02T07:23:58.633Z",
   "wallpapers": [
+    {
+      "id": "f1777706638632",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777706628129-tnkvo178kuk.jpeg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777706628129-tnkvo178kuk.jpeg",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "Antelope Canyon Light",
+      "description": "Vibrant orange and purple sandstone formations create a stunning, otherworldly scene bathed in ethereal light from a narrow opening above.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
     {
       "id": "f1777706327466",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777706310535-i40ayt8lm7r.png",
