@@ -1,7 +1,18 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-02T08:27:19.950Z",
+  "updatedAt": "2026-05-02T08:36:15.046Z",
   "wallpapers": [
+    {
+      "id": "f1777710975046",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777710971991-mxd4z1qr5c.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777710971991-mxd4z1qr5c.jpg",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "Rich Cat",
+      "description": "A Cat Selfie With 5 Luxurious Card",
+      "isDefault": false,
+      "storedIn": "github"
+    },
     {
       "id": "f1777710439948",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777710435502-9o84rnsleam.jpg",
