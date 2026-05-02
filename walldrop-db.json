@@ -1,7 +1,40 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-02T14:35:37.247Z",
+  "updatedAt": "2026-05-02T14:37:01.062Z",
   "wallpapers": [
+    {
+      "id": "f1777732621037",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732618320-a1vfhpnp45q.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732618320-a1vfhpnp45q.jpg",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "Cute Cats",
+      "description": "Cat",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1777732596195",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732593671-hddgklbd5.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732593671-hddgklbd5.jpg",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "New",
+      "description": "Vibe Check",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1777732581330",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732578278-ku4y92edim.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732578278-ku4y92edim.jpg",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "This One Is Good",
+      "description": "Not Same",
+      "isDefault": false,
+      "storedIn": "github"
+    },
     {
       "id": "f1777732537234",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732530925-u4ubgnjtd8.jpg",
