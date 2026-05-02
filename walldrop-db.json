@@ -1,7 +1,18 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-02T07:23:58.633Z",
+  "updatedAt": "2026-05-02T08:27:19.950Z",
   "wallpapers": [
+    {
+      "id": "f1777710439948",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777710435502-9o84rnsleam.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777710435502-9o84rnsleam.jpg",
+      "cat": "anime",
+      "tag": "Anime",
+      "title": "Crayon Shin-chan Rain",
+      "description": "A vibrant scene depicts the Nohara family cheerfully navigating a rainy day in a charming Japanese neighborhood.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
     {
       "id": "f1777706638632",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777706628129-tnkvo178kuk.jpeg",
