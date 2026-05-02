@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-02T04:01:49.693Z",
+  "updatedAt": "2026-05-02T04:03:28.132Z",
   "wallpapers": [
     {
       "id": "f1777694509693",
@@ -82,15 +82,6 @@
       "cat": "space",
       "tag": "Space",
       "title": "Deep Space",
-      "isDefault": true
-    },
-    {
-      "id": "d9",
-      "src": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1400&q=85",
-      "thumb": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
-      "cat": "city",
-      "tag": "City",
-      "title": "Architecture",
       "isDefault": true
     }
   ],
