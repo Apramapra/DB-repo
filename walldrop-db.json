@@ -1,7 +1,18 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-08T13:16:55.002Z",
+  "updatedAt": "2026-05-08T13:18:04.064Z",
   "wallpapers": [
+    {
+      "id": "f1778246275001",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246269939-m2ntlcyjh9.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246269939-m2ntlcyjh9.jpg",
+      "cat": "anime",
+      "tag": "Anime",
+      "title": "Curious Cats on a Roof",
+      "description": "Two charming cats peek over a sunny rooftop, surrounded by lush green leaves, evoking a whimsical and serene mood.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
     {
       "id": "f1778246215002",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246196242-qld9fd2wm3o.jpg",
