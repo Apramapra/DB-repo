@@ -1,73 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-04T13:01:13.918Z",
+  "updatedAt": "2026-05-08T12:49:16.197Z",
   "wallpapers": [
-    {
-      "id": "f1777732621037",
-      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732618320-a1vfhpnp45q.jpg",
-      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732618320-a1vfhpnp45q.jpg",
-      "cat": "nature",
-      "tag": "Nature",
-      "title": "Cute Cats",
-      "description": "Cat",
-      "isDefault": false,
-      "storedIn": "github"
-    },
-    {
-      "id": "f1777732596195",
-      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732593671-hddgklbd5.jpg",
-      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732593671-hddgklbd5.jpg",
-      "cat": "nature",
-      "tag": "Nature",
-      "title": "New",
-      "description": "Vibe Check",
-      "isDefault": false,
-      "storedIn": "github"
-    },
-    {
-      "id": "f1777732581330",
-      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732578278-ku4y92edim.jpg",
-      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732578278-ku4y92edim.jpg",
-      "cat": "nature",
-      "tag": "Nature",
-      "title": "This One Is Good",
-      "description": "Not Same",
-      "isDefault": false,
-      "storedIn": "github"
-    },
-    {
-      "id": "f1777732537234",
-      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732530925-u4ubgnjtd8.jpg",
-      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732530925-u4ubgnjtd8.jpg",
-      "cat": "nature",
-      "tag": "Nature",
-      "title": "Bro",
-      "description": "Vibe",
-      "isDefault": false,
-      "storedIn": "github"
-    },
-    {
-      "id": "f1777732203118",
-      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732201324-lpqooppauyj.jpg",
-      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777732201324-lpqooppauyj.jpg",
-      "cat": "nature",
-      "tag": "Nature",
-      "title": "fff",
-      "description": "fwff",
-      "isDefault": false,
-      "storedIn": "github"
-    },
-    {
-      "id": "f1777731758172",
-      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777731756289-s8r1m3919ld.jpg",
-      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1777731756289-s8r1m3919ld.jpg",
-      "cat": "nature",
-      "tag": "Nature",
-      "title": "Nature",
-      "description": "",
-      "isDefault": false,
-      "storedIn": "github"
-    },
     {
       "id": "d1",
       "src": "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?w=1400&q=85",
@@ -150,15 +84,5 @@
       "isDefault": true
     }
   ],
-  "users": [
-    {
-      "id": "g_105176845155672820787",
-      "fname": "test",
-      "lname": "test1",
-      "email": "fortestingpurpose123@gmail.com",
-      "picture": "https://lh3.googleusercontent.com/a/ACg8ocJd9X3B_KmAmemmwqmaX04IyreypTwjVVRuzcywDW1RX02fzg=s96-c",
-      "provider": "google",
-      "createdAt": 1777719226430
-    }
-  ]
+  "users": []
 }
