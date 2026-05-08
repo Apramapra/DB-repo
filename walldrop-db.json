@@ -1,7 +1,29 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-08T13:20:42.350Z",
+  "updatedAt": "2026-05-08T13:21:46.898Z",
   "wallpapers": [
+    {
+      "id": "f1778246466730",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246463970-4zb14s4gyyx.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246463970-4zb14s4gyyx.jpg",
+      "cat": "abstract",
+      "tag": "Abstract",
+      "title": "Vibrant Neon Bars",
+      "description": "Gradient shades of neon pink and purple on bars create a futuristic and modern vibe against a dark background.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1778246454395",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246452044-e2004cjuyoq.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246452044-e2004cjuyoq.jpg",
+      "cat": "abstract",
+      "tag": "Abstract",
+      "title": "Neon Ribbon Twist",
+      "description": "Vibrant orange, pink, and blue ribbon creates a dynamic, colorful gradient on a black background exuding a modern aesthetic.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
     {
       "id": "f1778246442349",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246439872-fghuskxy9g.jpg",
