@@ -1,7 +1,18 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-08T12:56:41.930Z",
+  "updatedAt": "2026-05-08T12:59:05.344Z",
   "wallpapers": [
+    {
+      "id": "f1778244800065",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778244792575-ixijrpqmklp.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778244792575-ixijrpqmklp.jpg",
+      "cat": "anime",
+      "tag": "Anime",
+      "title": "Curious Cats Peeking",
+      "description": "Bright and playful, this image shows two animated cats peeking over a ledge against a vibrant green and blue backdrop.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
     {
       "id": "d1",
       "src": "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?w=1400&q=85",
