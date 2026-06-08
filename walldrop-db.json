@@ -1,7 +1,209 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-08T09:44:16.856Z",
+  "updatedAt": "2026-05-08T13:21:46.898Z",
+  "updatedAt": "2026-05-08T14:33:32.065Z",
   "wallpapers": [
+    {
+      "id": "f1778246466730",
+      "id": "f1778246442349",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246439872-fghuskxy9g.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246439872-fghuskxy9g.jpg",
+      "cat": "abstract",
+      "tag": "Abstract",
+      "title": "Colorful Twisting Bands",
+      "description": "Vibrant cyan and purple bands swirl on a dark background, creating a dynamic and modern visual centerpiece for your wallpaper.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1778246354707",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246352272-diw3rh8aqwm.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246352272-diw3rh8aqwm.jpg",
+      "cat": "animals",
+      "tag": "Animals",
+      "title": "Curious Cat Circle",
+      "description": "A playful array of cats gazes down against a clear blue sky, conveying a whimsical and captivating feel.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1778246337283",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246318625-ou84ghzhbkm.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246318625-ou84ghzhbkm.png",
+      "cat": "abstract",
+      "tag": "Abstract",
+      "title": "Colorful Fluid Form",
+      "description": "A vibrant blend of soft pastels and iridescent hues creates a serene and flowing abstract shape, evoking a calm mood.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1778246275001",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246269939-m2ntlcyjh9.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246269939-m2ntlcyjh9.jpg",
+      "cat": "anime",
+      "tag": "Anime",
+      "title": "Curious Cats on a Roof",
+      "description": "Two charming cats peek over a sunny rooftop, surrounded by lush green leaves, evoking a whimsical and serene mood.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1778246215002",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246196242-qld9fd2wm3o.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246196242-qld9fd2wm3o.jpg",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "Sunlit Canyon Waves",
+      "description": "Vibrant hues of orange and blue illuminate a sandstone canyon, creating an awe-inspiring, serene natural landscape scene.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "d1",
+      "src": "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?w=800&q=80",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "Forest Light",
+      "isDefault": true
+    },
+    {
+      "id": "d2",
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=800&q=80",
+      "cat": "space",
+      "tag": "Space",
+      "title": "Galaxy",
+      "isDefault": true
+    },
+    {
+      "id": "d3",
+      "src": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "Alpine Peaks",
+      "isDefault": true
+    },
+    {
+      "id": "d4",
+      "src": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=800&q=80",
+      "cat": "abstract",
+      "tag": "Abstract",
+      "title": "Color Gradient",
+      "isDefault": true
+    },
+    {
+      "id": "d5",
+      "src": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=800&q=80",
+      "cat": "city",
+      "tag": "City",
+      "title": "City Skyline",
+      "isDefault": true
+    },
+    {
+      "id": "d6",
+      "src": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "Snowy Mountains",
+      "isDefault": true
+    },
+    {
+      "id": "d7",
+      "src": "https://images.unsplash.com/photo-1511300636408-a63a89df3482?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1511300636408-a63a89df3482?w=800&q=80",
+      "cat": "minimal",
+      "tag": "Minimal",
+      "title": "Minimalist",
+      "isDefault": true
+    },
+    {
+      "id": "d8",
+      "src": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=800&q=80",
+      "cat": "space",
+      "tag": "Space",
+      "title": "Deep Space",
+      "isDefault": true
+    },
+    {
+      "id": "d9",
+      "src": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1400&q=85",
+      "thumb": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+      "cat": "city",
+      "tag": "City",
+      "title": "Architecture",
+      "isDefault": true
+    }
+  ],
+  "users": []@@ -1,6 +1,6 @@
+{
+  "version": 2,
+  "updatedAt": "2026-05-08T13:21:46.898Z",
+  "updatedAt": "2026-05-08T14:33:32.065Z",
+  "wallpapers": [
+    {
+      "id": "f1778246466730",
+@@ -28,137 +28,137 @@
+      "id": "f1778246442349",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246439872-fghuskxy9g.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246439872-fghuskxy9g.jpg",
+      "cat": "abstract",
+      "tag": "Abstract",
+      "title": "Colorful Twisting Bands",
+      "description": "Vibrant cyan and purple bands swirl on a dark background, creating a dynamic and modern visual centerpiece for your wallpaper.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1778246354707",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246352272-diw3rh8aqwm.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246352272-diw3rh8aqwm.jpg",
+      "cat": "animals",
+      "tag": "Animals",
+      "title": "Curious Cat Circle",
+      "description": "A playful array of cats gazes down against a clear blue sky, conveying a whimsical and captivating feel.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1778246337283",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246318625-ou84ghzhbkm.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246318625-ou84ghzhbkm.png",
+      "cat": "abstract",
+      "tag": "Abstract",
+      "title": "Colorful Fluid Form",
+      "description": "A vibrant blend of soft pastels and iridescent hues creates a serene and flowing abstract shape, evoking a calm mood.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1778246275001",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246269939-m2ntlcyjh9.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246269939-m2ntlcyjh9.jpg",
+      "cat": "anime",
+      "tag": "Anime",
+      "title": "Curious Cats on a Roof",
+      "description": "Two charming cats peek over a sunny rooftop, surrounded by lush green leaves, evoking a whimsical and serene mood.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
+    {
+      "id": "f1778246215002",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246196242-qld9fd2wm3o.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246196242-qld9fd2wm3o.jpg",
+      "cat": "nature",
+      "tag": "Nature",
+      "title": "Sunlit Canyon Waves",
+      "description": "Vibrant hues of orange and blue illuminate a sandstone canyon, creating an awe-inspiring, serene natural landscape scene.",
+      "isDefault": false,
+      "storedIn": "github"
+    },
     {
       "id": "d1",
       "src": "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?w=1400&q=85",
@@ -85,4 +287,3 @@
     }
   ],
   "users": []
-}
