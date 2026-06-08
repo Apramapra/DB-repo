@@ -1,7 +1,5 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-08T13:21:46.898Z",
-  "updatedAt": "2026-05-08T14:33:32.065Z",
   "wallpapers": [
     {
       "id": "f1778246466730",
@@ -141,15 +139,12 @@
       "isDefault": true
     }
   ],
-  "users": []@@ -1,6 +1,6 @@
+  "users": []
 {
   "version": 2,
-  "updatedAt": "2026-05-08T13:21:46.898Z",
-  "updatedAt": "2026-05-08T14:33:32.065Z",
   "wallpapers": [
     {
       "id": "f1778246466730",
-@@ -28,137 +28,137 @@
       "id": "f1778246442349",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246439872-fghuskxy9g.jpg",
       "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1778246439872-fghuskxy9g.jpg",
