@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-09T10:43:56.110Z",
+  "updatedAt": "2026-06-15T08:31:03.733Z",
   "wallpapers": [
     {
       "id": "d1",
@@ -84,5 +84,16 @@
       "isDefault": true
     }
   ],
-  "users": []
+  "users": [
+    {
+      "createdAt": 1781512006901,
+      "email": "developerx2311@gmail.com",
+      "favs": [],
+      "fname": "Developer",
+      "id": "e_zqKn6PsCRJ3rF5Bu",
+      "lname": "Pro",
+      "picture": "",
+      "provider": "email"
+    }
+  ]
 }
