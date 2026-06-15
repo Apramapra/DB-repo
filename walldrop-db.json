@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-15T08:33:49.229Z",
+  "updatedAt": "2026-06-15T08:50:30.418Z",
   "wallpapers": [
+    {
+      "id": "f17815134304170",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781513422026-av1bmn3ge4h.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781513422026-av1bmn3ge4h.jpg",
+      "cat": "abstract",
+      "tag": "Waveform Horizon Glow",
+      "title": "Waveform Horizon Glow",
+      "description": "Smooth gradients of orange, black, and grey create a serene yet dynamic mood featuring abstract flowing hills against a dim backdrop.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
     {
       "id": "f1781512429229",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781512427089-6r2k5r0ovsc.jpg",
