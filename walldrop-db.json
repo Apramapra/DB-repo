@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-15T08:59:50.220Z",
+  "updatedAt": "2026-06-15T09:02:12.981Z",
   "wallpapers": [
+    {
+      "id": "f17815141329816",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781514027707-94yfbj01dzr.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781514027707-94yfbj01dzr.png",
+      "cat": "abstract",
+      "tag": "Flowing Glass Waves",
+      "title": "Flowing Glass Waves",
+      "description": "Soft peach and blue gradient backdrop with translucent flowing glass-like ribbons evoke a serene and modern abstract aesthetic.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
     {
       "id": "f17815139902194",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781513815914-gm7mp1hmag.png",
