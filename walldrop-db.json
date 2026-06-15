@@ -1,7 +1,33 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-15T08:50:30.418Z",
+  "updatedAt": "2026-06-15T08:53:34.267Z",
   "wallpapers": [
+    {
+      "id": "f17815136142652",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781513452656-cebcdlwfikp.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781513452656-cebcdlwfikp.png",
+      "cat": "abstract",
+      "tag": "Elegant Flowing Shapes",
+      "title": "Elegant Flowing Shapes",
+      "description": "Soft pastel hues blend into flowing, translucent forms, evoking a serene mood ideal for modern, minimalist wallpaper designs.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
+    {
+      "id": "f17815134517921",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781513432092-zevi42zhou.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781513432092-zevi42zhou.jpg",
+      "cat": "animals",
+      "tag": "Curious Cats on Roof",
+      "title": "Curious Cats on Roof",
+      "description": "A pair of cats, one black and one white, peek from a rustic roof amidst vibrant green foliage under soft sunlight.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
     {
       "id": "f17815134304170",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781513422026-av1bmn3ge4h.jpg",
