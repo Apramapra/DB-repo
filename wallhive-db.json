@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-16T10:44:15.427Z",
+  "updatedAt": "2026-06-16T10:45:17.612Z",
   "wallpapers": [
+    {
+      "id": "f17816067176126",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606657501-rhxs0sao9x8.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606657501-rhxs0sao9x8.png",
+      "cat": "abstract",
+      "tag": "Vibrant Fluid Shapes",
+      "title": "Vibrant Fluid Shapes",
+      "description": "Soft, colorful gradients blend seamlessly in abstract fluid shapes, evoking a dreamy and energetic visual atmosphere perfect for modern wallpaper.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
     {
       "id": "f17816066554275",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606578142-umvxpz1uwsm.png",
