@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-16T10:50:16.855Z",
+  "updatedAt": "2026-06-16T10:51:17.472Z",
   "wallpapers": [
+    {
+      "id": "f178160707747112",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781607019747-vcl3twe9xz.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781607019747-vcl3twe9xz.png",
+      "cat": "abstract",
+      "tag": "Smooth Gradient Curves",
+      "title": "Smooth Gradient Curves",
+      "description": "Soft pastel blues and greens blend seamlessly, creating a tranquil mood with flowing curved shapes for a soothing abstract wallpaper.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
     {
       "id": "f178160701685411",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606941094-px406dubmv.png",
