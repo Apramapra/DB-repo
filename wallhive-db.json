@@ -1,7 +1,33 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-16T10:41:11.536Z",
+  "updatedAt": "2026-06-16T10:42:56.031Z",
   "wallpapers": [
+    {
+      "id": "f17816065760314",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606524002-3umghslq60r.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606524002-3umghslq60r.png",
+      "cat": "abstract",
+      "tag": "Fluid Light Waves",
+      "title": "Fluid Light Waves",
+      "description": "A harmonious blend of cool blues, warm oranges, and soft whites, creating a dynamic and calming abstract flow.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
+    {
+      "id": "f17816065232013",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606473531-rdi3ld09vt.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606473531-rdi3ld09vt.png",
+      "cat": "abstract",
+      "tag": "Radiant Paper Waves",
+      "title": "Radiant Paper Waves",
+      "description": "White flowing paper-like textures embrace a warm orange glow, creating an elegant and serene abstract composition.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
     {
       "id": "f17816064715352",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606432425-j4kaxg4iag.png",
