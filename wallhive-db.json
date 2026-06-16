@@ -1,7 +1,33 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-16T10:51:17.472Z",
+  "updatedAt": "2026-06-16T10:53:03.426Z",
   "wallpapers": [
+    {
+      "id": "f178160718342514",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781607137399-sr9qm49521.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781607137399-sr9qm49521.png",
+      "cat": "abstract",
+      "tag": "Ethereal Glass Loops",
+      "title": "Ethereal Glass Loops",
+      "description": "Soft pastel hues of pink and blue envelop translucent loops and spheres, creating a calm, dreamy, and futuristic aura.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
+    {
+      "id": "f178160713631713",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781607079295-pfv0az3mz9p.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781607079295-pfv0az3mz9p.png",
+      "cat": "abstract",
+      "tag": "Soft Flowing Ribbons",
+      "title": "Soft Flowing Ribbons",
+      "description": "Pastel hues of blue, pink, and peach create a calming atmosphere with translucent waves gracefully flowing across the composition.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
     {
       "id": "f178160707747112",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781607019747-vcl3twe9xz.png",
