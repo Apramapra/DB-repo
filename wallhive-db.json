@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-16T10:47:03.070Z",
+  "updatedAt": "2026-06-16T10:48:31.025Z",
   "wallpapers": [
+    {
+      "id": "f17816069110259",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606826142-h87s75lg9r5.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606826142-h87s75lg9r5.png",
+      "cat": "abstract",
+      "tag": "Golden Horizon Waves",
+      "title": "Golden Horizon Waves",
+      "description": "Shimmering blues and golds blend seamlessly, creating a calming, surreal landscape of soft, wavy forms illuminated by warm light.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
     {
       "id": "f17816068230708",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606770628-k6gsu8tc5s.png",
