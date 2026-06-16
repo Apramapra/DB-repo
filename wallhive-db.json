@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-16T10:42:56.031Z",
+  "updatedAt": "2026-06-16T10:44:15.427Z",
   "wallpapers": [
+    {
+      "id": "f17816066554275",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606578142-umvxpz1uwsm.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606578142-umvxpz1uwsm.png",
+      "cat": "abstract",
+      "tag": "Vivid Fluid Gradient",
+      "title": "Vivid Fluid Gradient",
+      "description": "Soft flowing shapes in vibrant blues, purples, and oranges create a soothing and energetic abstract design for wallpapers.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
     {
       "id": "f17816065760314",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606524002-3umghslq60r.png",
