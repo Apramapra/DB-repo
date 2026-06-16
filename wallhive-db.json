@@ -1,7 +1,33 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-16T10:48:31.025Z",
+  "updatedAt": "2026-06-16T10:50:16.855Z",
   "wallpapers": [
+    {
+      "id": "f178160701685411",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606941094-px406dubmv.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606941094-px406dubmv.png",
+      "cat": "abstract",
+      "tag": "Flowing Gradient Hills",
+      "title": "Flowing Gradient Hills",
+      "description": "A soothing blend of teal, purple, and orange hues depicting a dreamy and surreal wave-like mountain landscape.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
+    {
+      "id": "f178160694023510",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606914392-vaiahdqpfyd.jpeg",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606914392-vaiahdqpfyd.jpeg",
+      "cat": "abstract",
+      "tag": "Flowing Gradient Waves",
+      "title": "Flowing Gradient Waves",
+      "description": "A soothing blend of soft blue and warm orange tones with smooth, flowing curves creating a calming abstract composition.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
     {
       "id": "f17816069110259",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606826142-h87s75lg9r5.png",
