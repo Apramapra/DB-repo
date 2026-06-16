@@ -1,7 +1,33 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-16T10:39:48.779Z",
+  "updatedAt": "2026-06-16T10:41:11.536Z",
   "wallpapers": [
+    {
+      "id": "f17816064715352",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606432425-j4kaxg4iag.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606432425-j4kaxg4iag.png",
+      "cat": "abstract",
+      "tag": "Vibrant Flow Form",
+      "title": "Vibrant Flow Form",
+      "description": "A dynamic swirl of translucent purple, pink, and orange hues radiating a calming yet futuristic ambiance against a soft backdrop.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
+    {
+      "id": "f17816064316111",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606390708-1tuay63r0oy.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606390708-1tuay63r0oy.png",
+      "cat": "abstract",
+      "tag": "Fluid Radiant Waves",
+      "title": "Fluid Radiant Waves",
+      "description": "Soft gradients of pink, blue, and gold blend across flowing, semi-transparent curves, creating a serene and elegant abstract composition.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
     {
       "id": "f17816063887760",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606257316-np971kjo5w.png",
