@@ -1,7 +1,33 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-16T10:45:17.612Z",
+  "updatedAt": "2026-06-16T10:47:03.070Z",
   "wallpapers": [
+    {
+      "id": "f17816068230708",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606770628-k6gsu8tc5s.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606770628-k6gsu8tc5s.png",
+      "cat": "abstract",
+      "tag": "Serene Wave Contours",
+      "title": "Serene Wave Contours",
+      "description": "Soft gradients of black and gray create flowing wave-like forms, evoking a tranquil and mysterious ambiance for minimalist aesthetics.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
+    {
+      "id": "f17816067697257",
+      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606719538-zejalnpp1cs.png",
+      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606719538-zejalnpp1cs.png",
+      "cat": "abstract",
+      "tag": "Ethereal Flowing Waves",
+      "title": "Ethereal Flowing Waves",
+      "description": "Soft blue and golden hues blend seamlessly to create a calming wavelike design, evoking tranquility and gentle motion.",
+      "isDefault": false,
+      "storedIn": "github",
+      "downloadCount": 0,
+      "isFeatured": false
+    },
     {
       "id": "f17816067176126",
       "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/wallpapers/1781606657501-rhxs0sao9x8.png",
