@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-20T08:07:16.398Z",
+  "updatedAt": "2026-06-20T08:09:15.854Z",
   "wallpapers": [
     {
       "cat": "nature",
@@ -29,34 +29,6 @@
       "tag": "A premium abstract 202603291213",
       "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/Wallpapers/1781941517851-179dbff5.png",
       "title": "A premium abstract 202603291213"
-    },
-    {
-      "cat": "nature",
-      "createdAt": 1781941509714,
-      "desc": "",
-      "downloadCount": 0,
-      "id": "w_E03ookkrxnoTedku",
-      "isDefault": false,
-      "isFeatured": false,
-      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/Wallpapers/1781941498052-ca21b3ea.png",
-      "storedIn": "github",
-      "tag": "A premium abstract 202603291205 removebg preview",
-      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/Wallpapers/1781941498052-ca21b3ea.png",
-      "title": "A premium abstract 202603291205 removebg preview"
-    },
-    {
-      "cat": "abstract",
-      "createdAt": 1781941496863,
-      "desc": "A serene composition of translucent blue, orange, and pink shapes forming flowing curves, evoking a calm and modern aesthetic.",
-      "downloadCount": 0,
-      "id": "w__zLKclFtMkWHiVDp",
-      "isDefault": false,
-      "isFeatured": false,
-      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/Wallpapers/1781941454159-0525f8f1.png",
-      "storedIn": "github",
-      "tag": "Flowing Glass Waves",
-      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/Wallpapers/1781941454159-0525f8f1.png",
-      "title": "Flowing Glass Waves"
     },
     {
       "cat": "cars",
