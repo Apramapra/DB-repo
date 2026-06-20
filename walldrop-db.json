@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-20T08:05:14.592Z",
+  "updatedAt": "2026-06-20T08:07:16.398Z",
   "wallpapers": [
     {
       "cat": "nature",
       "createdAt": 1781941838575,
       "desc": "",
-      "downloadCount": 0,
+      "downloadCount": 1,
       "id": "w_ZJB416lK0IGaALuP",
       "isDefault": false,
       "isFeatured": false,
@@ -15,20 +15,6 @@
       "tag": "a96ff30b cdf0 4adc a9c2 879dc9f4f870",
       "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/Wallpapers/1781941759654-9003a1f1.png",
       "title": "a96ff30b cdf0 4adc a9c2 879dc9f4f870"
-    },
-    {
-      "cat": "nature",
-      "createdAt": 1781941754158,
-      "desc": "",
-      "downloadCount": 0,
-      "id": "w_CP2VwS3dD1FGeJP3",
-      "isDefault": false,
-      "isFeatured": false,
-      "src": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/Wallpapers/1781941641557-2fa56c53.png",
-      "storedIn": "github",
-      "tag": "A premium abstract 202603291234",
-      "thumb": "https://cdn.jsdelivr.net/gh/Apramapra/WallDrop@main/Wallpapers/1781941641557-2fa56c53.png",
-      "title": "A premium abstract 202603291234"
     },
     {
       "cat": "nature",
